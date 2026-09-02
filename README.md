@@ -4,9 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/crazy-develop/Dushyant-leethub/tree/master/0001-two-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/crazy-develop/Dushyant-leethub/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/crazy-develop/Dushyant-leethub/tree/master/3875-construct-uniform-parity-array-i) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/crazy-develop/Dushyant-leethub/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
